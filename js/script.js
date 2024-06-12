@@ -8,7 +8,7 @@ agregar.addEventListener('click', function(){
     const newList = document.createElement('li'); //Se crea un elemento (en este caso una peli) para añadir mas adelante a lalista
     
     newList.textContent = intro //Se añade una pelicula a la lista
-    list.appendChild(newList); //creamos la lista con todas las pelis
+    list.appendChild(newList); //creamos la lista con todas las pelis.
 })
 
  
